@@ -1,4 +1,4 @@
-# nuevo-repo-git
+# pollito
 Primer repo creado en github para estadia
 
 ## descripcion
